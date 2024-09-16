@@ -363,6 +363,7 @@ class loop_TIC_TAC_TAO_GAME
             System.out.println("2nd PLAYER CHANCE");
             System.out.println("Your choice: ");
             Z++;System.out.println("");q=ak.nextInt();System.out.println("");
+            ak.close();
         }
     }
 }
