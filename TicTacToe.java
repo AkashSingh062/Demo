@@ -32,7 +32,7 @@ class loop_TIC_TAC_TAO_GAME
                 }
                 break;
                 case 2:
-                if(s!='O' && s!='X')
+                if(s!='O' && s !='X')
                 s='O';
                 else
                 {
